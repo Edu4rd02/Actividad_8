@@ -13,7 +13,7 @@ El objetivo principal de este proyecto es aprender a manejar archivos CSV para l
         3. [Mostrar a los empleados](#3-mostrar-a-los-empleados)
         4. [Guardar los cambios](#4-guardar-en-el-archivo-empleados)
         5. [Salir](#5-salir)
-* ### [Versión](#versión-versión-🔧🛠%EF%B8%8F🦺)
+* ### [Versión](#versión-versión-🔧🦺)
 * ### [Colaboradores](#colaboradores-)
 
 ## **Instalación del programa** 🆘
@@ -72,7 +72,7 @@ Los cambios hechos en los empleados (dado de alta o baja) se van a ver reflejado
 #### ***5. Salir***
 Esta instrucción rompe el ciclo y termina el programa. Al salir, **se guardan automáticamente** los cambios hechos.
 
-## **Versión** 🔧🛠️🦺
+## **Versión** 🔧🦺
 El código actual se encuentra en la versión 1.0 de desarrollo. Este está creado en el lenguaje de programación **Java**.
 
 ## **Colaboradores** 🛬
