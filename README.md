@@ -67,8 +67,11 @@ Luego se deberá seleccionar uno de los puestos disponibles, cada puesto cuenta 
 #### ***2. Dar de baja a empleado***
 Cuando se ejecuta esta acción, se debe ingresar el ***ID*** del empleado al cual quieres dar de baja, si se ingresa correctamente, lo único que ocurre es que el valor del atributo ***Online*** cambia a false, nunca es eliminado del archivo CSV.
 
-<center><img src="BajaEmpleado.png"></center>
-<center>Ejemplo. El empleado Eduardo Becerra fue dado de baja.</center>
+<p align="center">
+  <img src="BajaEmpleado.png">
+    
+    Ejemplo. El empleado Eduardo Becerra fue dado de baja
+</p>
 
 #### ***3. Mostrar a los empleados***
 Se muestra en consola a los empleados que siguen trabajando en la empresa, es decir, sólo a los que tienen el valor de ***true*** en la variable ***Online***.
