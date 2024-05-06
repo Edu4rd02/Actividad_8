@@ -13,15 +13,18 @@ El objetivo principal de este proyecto es aprender a manejar archivos CSV para l
         3. [Mostrar a los empleados](#3-mostrar-a-los-empleados)
         4. [Guardar los cambios](#4-guardar-en-el-archivo-empleados)
         5. [Salir](#5-salir)
-* ### [Versión](#versión-versión-🔧🦺)
+* ### [Versión](#versión-🔧🦺)
 * ### [Colaboradores](#colaboradores-)
 
 ## **Instalación del programa** 🆘
 Una vez descargado, debes extraer la carpeta **.zip** en un lugar que recuerdes.
 
 Debes abrir VSCode y presionar la combinación **Ctrl+k+o** para seleccionar la carpeta que acabas de extraer.
-<center><img src="Instalacion.png"></center>
-<center>Debes dar un clic en la carpeta y presionar la opción "Seleccionar carpeta".</center>
+
+<p align="center">
+  <img src="Instalacion.png">
+    Debes dar un clic en la carpeta y presionar la opción "Seleccionar carpeta"
+</p>
 
 Para iniciar el programa, necesitas correr el archivo ***Ejercicio16.java***.
 
