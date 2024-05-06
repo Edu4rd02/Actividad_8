@@ -13,7 +13,7 @@ El objetivo principal de este proyecto es aprender a manejar archivos CSV para l
         3. [Mostrar a los empleados](#3-mostrar-a-los-empleados)
         4. [Guardar los cambios](#4-guardar-en-el-archivo-empleados)
         5. [Salir](#5-salir)
-* ### [Versión](#versión-🔧🦺)
+* ### [Versión](#versión-)
 * ### [Colaboradores](#colaboradores-)
 
 ## **Instalación del programa** 🆘
@@ -23,6 +23,7 @@ Debes abrir VSCode y presionar la combinación **Ctrl+k+o** para seleccionar la 
 
 <p align="center">
   <img src="Instalacion.png">
+    
     Debes dar un clic en la carpeta y presionar la opción "Seleccionar carpeta"
 </p>
 
@@ -47,8 +48,11 @@ Para este programa, cada empleado cuenta con las siguientes características o a
 ### **Opciones disponibles dentro del programa** 1️⃣2️⃣3️⃣4️⃣
 Lo primero que se  va a presentar al ejecutar el código es el menú y se da a elegir entre 5 opciones diferentes, esto es un bucle, así que no se terminará hasta seleccionar la opción 5.
 
-<center><img src="Menu.png"></center>
-<center>Menú del programa.</center>
+<p align="center">
+  <img src="Menu.png">
+    
+    Menú del programa.
+</p>
 
 #### ***1. Dar de alta a empleado.***
 En este apartado de del programa se deberá de proporcionar información como:
