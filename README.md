@@ -13,7 +13,7 @@ El objetivo principal de este proyecto es aprender a manejar archivos CSV para l
         3. [Mostrar a los empleados](#3-mostrar-a-los-empleados)
         4. [Guardar los cambios](#4-guardar-en-el-archivo-empleados)
         5. [Salir](#5-salir)
-* ### [Versión](#versión-🔧🛠️🦺)
+* ### [Versión](#versión-versión-🔧🛠%EF%B8%8F🦺)
 * ### [Colaboradores](#colaboradores-)
 
 ## **Instalación del programa** 🆘
