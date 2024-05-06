@@ -7,7 +7,7 @@ El objetivo principal de este proyecto es aprender a manejar archivos CSV para l
 
 * ### [Instalación del programa](#instalación-del-programa-🆘)
 * ### [Comienzo del programa](#comienzo-del-programa-🛫)
-    + #### [Opciones del programa](#opciones-disponibles-dentro-del-programa1️⃣2️⃣3️⃣4️⃣)
+    + #### [Opciones del programa](#opciones-disponibles-dentro-del-programa-1️⃣2️⃣3️⃣4️⃣)
         1. [Dar de alta a empleado](#1-dar-de-alta-a-empleado)
         2. [Dar de baja a empleado](#2-dar-de-baja-a-empleado)
         3. [Mostrar a los empleados](#3-mostrar-a-los-empleados)
