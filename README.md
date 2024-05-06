@@ -5,8 +5,8 @@ El objetivo principal de este proyecto es aprender a manejar archivos CSV para l
 
 ## Índice
 
-* ### [Instalación del programa](#instalación-del-programa-🆘)
-* ### [Comienzo del programa](#comienzo-del-programa-🛫)
+* ### [Instalación del programa](#instalación-del-programa-)
+* ### [Comienzo del programa](#comienzo-del-programa-)
     + #### [Opciones del programa](#opciones-disponibles-dentro-del-programa-1️⃣2️⃣3️⃣4️⃣)
         1. [Dar de alta a empleado](#1-dar-de-alta-a-empleado)
         2. [Dar de baja a empleado](#2-dar-de-baja-a-empleado)
@@ -14,7 +14,7 @@ El objetivo principal de este proyecto es aprender a manejar archivos CSV para l
         4. [Guardar los cambios](#4-guardar-en-el-archivo-empleados)
         5. [Salir](#5-salir)
 * ### [Versión](#versión-🔧🛠️🦺)
-* ### [Colaboradores](#colaboradores-🛬)
+* ### [Colaboradores](#colaboradores-)
 
 ## **Instalación del programa** 🆘
 Una vez descargado, debes extraer la carpeta **.zip** en un lugar que recuerdes.
